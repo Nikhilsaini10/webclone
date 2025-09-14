@@ -1,0 +1,381 @@
+*{
+  font-family: cursive;  
+}
+.internalsection {
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(../image/bacsec.jpg);
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 685px;
+}
+.number {
+    padding-right: 123px;
+    margin: 0 auto;
+    font-size: 21px;
+}
+.navbar {
+    width: 100%;
+    display: flex
+;
+    justify-content: space-around;
+    align-items: center;
+    gap: 59%;
+}
+.logo {
+    width: 12%;
+}
+img.navlogo {
+    width: 62%;
+    margin: 0 auto;
+    padding-left: 57px;
+}
+.sectionbox {
+    width: 100%;
+    display: flex;
+}
+.box {
+    width: 50%;
+}
+h1.heading {
+    padding-left: 62px;
+    font-size: 41px;
+    margin: 0 auto;
+    padding-top: 67px;
+}
+p.para {
+    margin: 0 auto;
+    padding-left: 92px;
+    color: burlywood;
+    font-size: 14px;
+    padding-top: 13px;
+    padding-right: 93px;
+}
+.bu {
+    margin: 0 auto;
+    padding-left: 89px;
+    padding-top: 21px;
+}
+button.signup {
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 10%;
+}
+
+p.para1 {
+    color: yellowgreen;
+    font-size: 19px;
+    padding-left: 46px;
+    padding-top: 68px;
+}
+img.punit {
+    width: 71%;
+    margin: 0 auto;
+    padding-left: 23px;
+}
+span.high {
+    color: greenyellow;
+}
+.midsection {
+    width: 90%;
+    margin: 0 auto;
+}
+.midsectionbox1{
+    width: 100%;
+    display: flex;
+}
+.box1{
+    width: 50%;
+}
+h1.heading1 {
+    width: 74%;
+    font-size: 30px;
+    padding-top: 36px;
+}
+img.blueline {
+    width: 27%;
+    margin: 0 auto;
+}
+p.para2 {
+    width: 93%;
+}
+p.para3 {
+    width: 92%;
+}
+button.getmore {
+    padding: 6px 16px;
+    font-size: 15px;
+}
+.midsection2 {
+    width: 90%;
+    margin: 0 auto;
+}
+h1.heading2 {
+    width: 62%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+.sectionbox2line {
+    width: 131px;
+    margin: 0 auto;
+}
+img.line2 {
+    margin: 0 auto;
+    width: 95%;
+}
+p.para4 {
+    width: 48%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+p.para5 {
+    width: 28%;
+    margin: 0 auto;
+}
+.section {
+    width: 100%;
+    margin: 0 auto;
+}
+.midsection3{
+    display: flex;
+}
+.box4{
+    width: 50%;
+}
+img.box4img {
+    width: 68%;
+    padding-left: 157px;
+}
+h1.heading3 {
+    width: 49%;
+    padding-top: 39px;
+}
+p.para6 {
+    width: 64%;
+}
+img.box2image {
+    width: 62%;
+    padding-left: 147px;
+    padding-top: 117px;
+}
+.section4 {
+    width: 90%;
+    margin: 0 auto;
+    display: flex
+;
+}
+.section4box {
+    width: 50%;
+}
+
+img.leaf {
+    width: 46%;
+    padding-top: 60px;
+}
+.section5{
+    width: 90%;
+    margin: 0 auto;
+}
+.boxes{
+    width: 100%;
+    display: flex;
+}
+.box5{
+    width: 50%;
+}
+h1.heading4 {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 48px;
+    padding-left: 107px;
+    font-size: 26px;
+}
+p.para7 {
+    margin: 0 auto;
+    width: 76%;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+img.law {
+    margin: 0 auto;
+    width: 80%;
+}
+.section6{
+    width: 100%;
+    margin: 0 auto;
+}
+.boxes1{
+    width: 100%;
+    display: flex;
+}
+.box6{
+    width: 50%;
+}
+h1.heading5 {
+    padding-right: 158px;
+    margin: 0 auto;
+    width: 68%;
+    font-size: 26px;
+    padding-top: 75px;
+}
+p.para8 {
+    width: 71%;
+}
+img.side2 {
+    margin: 0 auto;
+    width: 81%;
+    padding-left: 70px;
+}
+.section6 {
+    width: 100%;
+}
+.sectionbox6 {
+    width: 100%;
+    background-color: aqua;
+    height: 444px;
+}
+.boxes2{
+    width: 100%;
+    display: flex;
+
+}
+.box7 {
+    width: 33.33%;
+    padding-left: 64px;
+}
+img.ai {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 86px;
+    padding-left: 21px;
+}
+h1.heading6 {
+    font-size: 22px;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+p.para9 {
+    font-size: 13px;
+    margin: 0 auto;
+    width: 76%;
+    padding-right: 46px;
+    padding-top: 8px;
+}
+.section7{
+    width: 90%;
+    margin: 0 auto;
+}
+.boxes3{
+    display: flex;
+    width: 100%;
+}
+.box8{
+    width: 50%;
+}
+h1.heading7 {
+    width: 63%;
+    font-size: 28px;
+    padding-top: 60px;
+    margin: 0 auto;
+    padding-right: 192px;
+}
+
+img.imgline {
+    width: 49%;
+    margin: 0 auto;
+}
+.line {
+    display: flex
+;
+    width: 100%;
+}
+.line1 {
+    width: 5%;
+    /* margin: 0 auto; */
+}
+.line2 {
+    width: 95%;
+}
+img.dot1 {
+    width: 65%;
+    padding-top: 35px;
+}
+h1.heading8 {
+    font-size: 24px;
+    padding-top: 10px;
+}
+p.para10 {
+    width: 90%;
+    margin: 0 auto;
+    padding-right: 12px;
+}
+img.sec6 {
+    width: 84%;
+    margin: 0 auto;
+    padding-top: 57px;
+    padding-left: 33px;
+}
+.getmoreaccess1 {
+    width: 23%;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-right: 400px;
+}
+.section8 {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+.boxes4{
+    width: 100%;
+    background-color: aqua;
+    height: 600px;
+    display: flex;
+}
+.box10{
+    width: 40%;
+}
+.box11{
+    width: 60%;
+}
+img.png {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 69px;
+    padding-left: 16px;
+}
+h1.heading {
+    width: 80%;
+    margin: 0 auto;
+    padding-right: 21px;
+}
+.skip {
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 64px;
+    padding-top: 21px;
+}
+input[type="text"] {
+    width: 83%;
+}
+input[type="password"] {
+    width: 83%;
+}
+input[type="date"] {
+    width: 83%;
+}
+input[type="time"] {
+    width: 83%;
+}
+input[type="Submit"] {
+    width: 32%;
+}
+.section9{
+    width: 100%;
+    margin: 0 auto;
+    background-color: black;
+    height: 50px;
+}
